@@ -1,0 +1,8 @@
+artigo copy.xml
+*.pdf
+
+*.docx
+*.md
+*venv
+parser.cpython-311.pyc
+tests.cpython-311.pyc
